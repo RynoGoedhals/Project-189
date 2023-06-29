@@ -1,0 +1,11 @@
+Model Information:
+* title:	Key to the Royal Chapel of Versailles
+* source:	https://sketchfab.com/3d-models/key-to-the-royal-chapel-of-versailles-58ec6f52a72143b591aad1f86bcccd0c
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Key to the Royal Chapel of Versailles" (https://sketchfab.com/3d-models/key-to-the-royal-chapel-of-versailles-58ec6f52a72143b591aad1f86bcccd0c) by alban (https://sketchfab.com/alban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
